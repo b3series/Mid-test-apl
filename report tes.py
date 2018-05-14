@@ -5,6 +5,7 @@
 # Created by: PyQt5 UI code generator 5.4.1
 #
 # WARNING! All changes made in this file will be lost!
+#changes
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sqlite3
